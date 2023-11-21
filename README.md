@@ -1,3 +1,3 @@
 # Pizza_work
-Leopold brandl
+Leopold Brandl
 Mohammad Abuzah
